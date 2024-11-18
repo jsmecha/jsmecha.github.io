@@ -1,1 +1,2 @@
-
+Developed a Python-based program to track and record app and website usage on a computer, with data uploaded to Google Drive for real-time monitoring.
+Integrated Google Drive API to upload usage logs in real time, providing secure cloud storage and easy access.
